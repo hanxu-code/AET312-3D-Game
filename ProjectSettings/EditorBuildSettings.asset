@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/UiScenes/TitleScreen.unity
-    guid: ce3f852853f994bf5836effaab3dfe0b
+    path: Assets/Scenes/Ten Challenges.unity
+    guid: e83b658b157066b429a5314d7f7205fb
   - enabled: 1
     path: Assets/Scenes/UiScenes/WinScreen.unity
     guid: ca24066a358f64121aa08929e28f3586
